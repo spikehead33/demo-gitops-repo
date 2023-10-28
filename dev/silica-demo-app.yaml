@@ -1,3 +1,3 @@
-source: git://https://github.com/spikehead33/demo-gitops-repo.git/app/silica-demo-app
+moduleSource: git://https://github.com/spikehead33/demo-gitops-repo.git/app/silica-demo-app
 values:  # override all the values in the template file
   TARGET: MarcoMarcoCD
