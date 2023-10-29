@@ -1,0 +1,4 @@
+source: git://https://github.com/SandboxVR/nomad-poc.git/silica/apps/silica-video
+dependencies: ["silica-os"]
+values:
+  DUMMY_KEY: DUMMUY_VALUE

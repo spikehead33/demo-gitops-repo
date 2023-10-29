@@ -1,3 +1,4 @@
 moduleSource: git://https://github.com/spikehead33/demo-gitops-repo.git/app/silica-demo-app
+dependencies: ["silica-os"]
 values:  # override all the values in the template file
   TARGET: MarcoMarcoCD
